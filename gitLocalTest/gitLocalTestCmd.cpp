@@ -11,6 +11,8 @@
 // 
 #include <maya/MSimple.h>
 
+//3rd
+
 // Use helper macro to register a command with Maya.  It creates and
 // registers a command that does not support undo or redo.  The 
 // created class derives off of MPxCommand.
