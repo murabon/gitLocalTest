@@ -7,7 +7,6 @@
 //
 // Author: Maya Plug-in Wizard 2.0
 //
-//
 // Includes everything needed to register a simple MEL command with Maya.
 // 
 #include <maya/MSimple.h>
